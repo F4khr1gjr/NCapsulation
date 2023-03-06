@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Ncapsulation\Ncapsulation\bin\Debug\net6.0\Ncapsulation.exe
+C:\Users\user\source\repos\Ncapsulation\Ncapsulation\bin\Debug\net6.0\Ncapsulation.deps.json
+C:\Users\user\source\repos\Ncapsulation\Ncapsulation\bin\Debug\net6.0\Ncapsulation.runtimeconfig.json
+C:\Users\user\source\repos\Ncapsulation\Ncapsulation\bin\Debug\net6.0\Ncapsulation.dll
+C:\Users\user\source\repos\Ncapsulation\Ncapsulation\bin\Debug\net6.0\Ncapsulation.pdb
+C:\Users\user\source\repos\Ncapsulation\Ncapsulation\obj\Debug\net6.0\Ncapsulation.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Ncapsulation\Ncapsulation\obj\Debug\net6.0\Ncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Ncapsulation\Ncapsulation\obj\Debug\net6.0\Ncapsulation.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Ncapsulation\Ncapsulation\obj\Debug\net6.0\Ncapsulation.AssemblyInfo.cs
+C:\Users\user\source\repos\Ncapsulation\Ncapsulation\obj\Debug\net6.0\Ncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Ncapsulation\Ncapsulation\obj\Debug\net6.0\Ncapsulation.dll
+C:\Users\user\source\repos\Ncapsulation\Ncapsulation\obj\Debug\net6.0\refint\Ncapsulation.dll
+C:\Users\user\source\repos\Ncapsulation\Ncapsulation\obj\Debug\net6.0\Ncapsulation.pdb
+C:\Users\user\source\repos\Ncapsulation\Ncapsulation\obj\Debug\net6.0\Ncapsulation.genruntimeconfig.cache
+C:\Users\user\source\repos\Ncapsulation\Ncapsulation\obj\Debug\net6.0\ref\Ncapsulation.dll
